@@ -1,4 +1,4 @@
-# VIRT-LAB-Oracle-VirtualBox-with-Ubuntu-Kali
+# VIRT-LAB-Oracle-VirtualBox-with-Ubuntu & Kali
 
 ## Objective
 
